@@ -13,5 +13,5 @@ db:
   volumes:
    - /var/lib/mysql
   environment:
-   - MYSQL_ROOT_PASSWORD=myrootpass 
-   - MYSQL_DATABASE=mydb 
+   - MYSQL_ROOT_PASSWORD=myrootpass
+   - MYSQL_DATABASE=mydb
