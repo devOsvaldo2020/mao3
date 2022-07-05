@@ -7,8 +7,6 @@ php:
    - ./www:/var/www/html
   links:
    - db
-
- 
    
 db:
   image: mysql:5:7
